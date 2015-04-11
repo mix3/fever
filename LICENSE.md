@@ -52,5 +52,7 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 ## mux/*
 
 Copyright Nicolas Mérouze
+
 MPL 2.0
+
 read [mux/LICENSE](mux/LICENSE)
