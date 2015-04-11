@@ -49,4 +49,4 @@ start_server --port 19300 -- go run examples/simple/main.go
 * [chain/\*](chain) under MIT license
 * [mux/\*](mux) under MPL 2.0 license
 
-see [LICENSE](LICENSE) for details.
+see [LICENSE.md](LICENSE.md) for details.
