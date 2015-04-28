@@ -11,7 +11,7 @@ import (
 	"golang.org/x/net/netutil"
 
 	"github.com/lestrrat/go-server-starter-listener"
-	"github.com/tylerb/graceful"
+	"gopkg.in/tylerb/graceful.v1"
 )
 
 type server struct {
